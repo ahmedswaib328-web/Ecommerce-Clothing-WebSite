@@ -2,10 +2,27 @@
 1. Project Introduction
 
 What is Thread & Style?
+Thread & Style is a web-based online clothing store management system. It is designed to make online clothing shopping easier for customers and product management easier for administrators. 
+
 What does it do?
+hread & Style provides the following main features:
+
+For Customers
+Register and log in
+Browse products
+Search for products
+View product details
+Add products to the shopping cart
+Place orders
+Provide feedback
+For Admins
+Admin login
+Manage products
+Manage orders
+Manage customer feedback
 
 2. Requirements
-For example:
+
 
 XAMPP
 Apache
@@ -15,7 +32,7 @@ Web browser
 Required versions if you know the versions you actually used
 
 3. Installation / Setup
-Very important:
+
 
 Download/clone GitHub repository
 Install XAMPP
@@ -27,7 +44,4 @@ Configure database connection
 Run the website using localhost
 
 
-which is focused on Online shoping
-There  we used local host
-There are 2 pannels admin pannel and user pannel
-Both of them can has different interfaces so they can access individully
+\
